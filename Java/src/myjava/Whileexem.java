@@ -1,0 +1,28 @@
+package myjava;
+
+public class Whileexem 
+{
+	
+	public static void main(String args[])
+	{
+		
+		int i=1;
+		
+		while(i<=9)
+		{
+			
+			if(i%2==0)
+			{
+			
+			System.out.println(i);
+			
+			}
+			
+			i++;
+			
+		}
+		
+		
+	}
+
+}
